@@ -8,6 +8,9 @@
 - JSON (pas de XML ou de CSV)
 - **Mise en prod : attendre pour le moment**
 
+## Bonnes pratiques imposées 
+- Intégrer obligatoirement un numéro de version dans vos URLs
+
 ## Recherches / Organisation / Explications imposées
 - 1 repo GIT => créé maintenant, et vous me l'envoyez sur la discussion teams
 - GIT
