@@ -19,7 +19,7 @@
 - Dans votre repo GIT, vous allez devoir créer : 
     - 1 dossier "documentation" pour la partie "recherches" que je vais vous demander. Je dois y retrouver : 
         - 💩 Un fichier qui explique JWT
-        - Qu'est-ce que le REST / comment ça marche
+        - 💩 Qu'est-ce que le REST / comment ça marche
         - Modèle de Richardson et comment l'implémenter
         - Explication des Websockets / Socket.io
         - Un fichier qui détail les bonnes pratiques de SWAGGER avec l'autodocumentation (comment la mettre en place)
