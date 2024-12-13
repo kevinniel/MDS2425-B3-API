@@ -1,5 +1,15 @@
 # TP
 
+## Technologies imposées 
+- Node / Express
+- SQL Serveur
+- ORM : Sequelize
+- Documentation : obligatoire avec SWAGGER
+
+## Recherches / Organisation / Explications imposées
+- 1 repo GIT => créé maintenant, et vous me l'envoyez sur la discussion teams
+- GIT => 
+
 
 ## Barème d'évaluation
 
