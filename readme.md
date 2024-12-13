@@ -22,7 +22,7 @@
         - 💩 Qu'est-ce que le REST / comment ça marche
         - --> 💩 Modèle de Richardson et comment l'implémenter
         - Explication des Websockets / Socket.io
-        - Un fichier qui détail les bonnes pratiques de SWAGGER avec l'autodocumentation (comment la mettre en place)
+        - 💩 Un fichier qui détail les bonnes pratiques de SWAGGER avec l'autodocumentation (comment la mettre en place)
         - Un fichier qui détail les bonnes pratiques de POSTMAN avec les informations sur comment mettre en place des collections, et l'autogénération de Bearer
         - --> 💩 Un fichier paramétré de ESLINT avec des paramétrages customs que tout le monde va devoir respecter
         - 💩 Documentation sur le HTTP + HTTPS, avec tous les codes d'erreur et toutes les méthodes pour les API
