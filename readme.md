@@ -11,6 +11,7 @@
 ## Bonnes pratiques imposées 
 - Intégrer obligatoirement un numéro de version dans vos URLs
 - Respect du Linter ESLint avec la configuration donnée (cf ./documentation/linter.md)
+- Les paramètres pour filtrer vos résultats de recherches doivent être passer en $_GET (dans l'URL via ```?param1=valeur1&param2=valeur2```")
 
 ## Recherches / Organisation / Explications imposées
 - 1 repo GIT => créé maintenant, et vous me l'envoyez sur la discussion teams
@@ -27,6 +28,53 @@
         - Un fichier qui détail les bonnes pratiques de POSTMAN avec les informations sur comment mettre en place des collections, et l'autogénération de Bearer
         - --> 💩 Un fichier paramétré de ESLINT avec des paramétrages customs que tout le monde va devoir respecter
         - 💩 Documentation sur le HTTP + HTTPS, avec tous les codes d'erreur et toutes les méthodes pour les API
+
+## Routes de base imposées
+
+- **Utilisateur** - _/users_
+    - **POST** - _/users_
+    - **GET** - _/users/{role}_
+    - **GET** - _/users/{id}_
+    - **PUT** - _/users/{id}_
+    - **DELETE** - _/users/{id}_
+- **Produits** - _/products_
+    - **POST** - _/products_
+    - **GET** - _/products_
+    - **GET** - _/products/{id}_
+    - **PUT** - _/products/{id}_
+    - **DELETE** - _/products/{id}_
+- **Commandes** - _/orders_
+    - **POST** - _/orders_
+    - **GET** - _/orders_
+    - **GET** - _/orders/{id}_
+    - **PUT** - _/orders/{id}_
+    - **DELETE** - _/orders/{id}_
+- **Tournées** - _/delivery-tours_
+    - **POST** - _/delivery-tours_
+    - **GET** - _/delivery-tours_
+    - **GET** - _/delivery-tours/{id}_
+    - **PUT** - _/delivery-tours/{id}_
+    - **DELETE** - _/delivery-tours/{id}_
+- **Commentaires** - _/products/{id}/comments_
+    - **POST** - _/products/{id}/comments_
+    - **GET** - _/products/{id}/comments_
+    - **GET** - _/products/{id}/comments/{id}_
+    - **PUT** - _/products/{id}/comments/{id}_
+    - **DELETE** - _/products/{id}/comments/{id}_
+- **Messages** - _/messages_
+    - **POST** - _/messages_
+    - **GET** - _/messages_
+    - **GET** - _/messages/{id}_
+    - **PUT** - _/messages/{id}_
+    - **DELETE** - _/messages/{id}_
+- **Demande d'affection** - _/assignment-requests_
+    - **POST** - _/assignment-requests_
+    - **GET** - _/assignment-requests_
+    - **GET** - _/assignment-requests/{id}_
+    - **PUT** - _/assignment-requests/{id}_
+    - **DELETE** - _/assignment-requests/{id}_
+
+
 
 ## Barème d'évaluation
 
