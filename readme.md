@@ -10,6 +10,7 @@
 
 ## Bonnes pratiques imposées 
 - Intégrer obligatoirement un numéro de version dans vos URLs
+- Respect du Linter ESLint avec la configuration donnée (cf ./documentation/linter.md)
 
 ## Recherches / Organisation / Explications imposées
 - 1 repo GIT => créé maintenant, et vous me l'envoyez sur la discussion teams
