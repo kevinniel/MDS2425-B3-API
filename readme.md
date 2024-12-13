@@ -23,7 +23,6 @@
         - Un fichier qui détail les bonnes pratiques de POSTMAN avec les informations sur comment mettre en place des collections, et l'autogénération de Bearer
         - Un fichier paramétré de ESLINT avec des paramétrages customs que tout le monde va devoir respecter
 
-
 ## Barème d'évaluation
 
 - Swagger / Documentation => 3pts
@@ -38,6 +37,7 @@
 - Architecture & Qualité de code => 4 pts
 - page dédiée chat avec Socket.io => en lien avec le DAB => 10 pts
 
+## Repo GIT
 
 
 
