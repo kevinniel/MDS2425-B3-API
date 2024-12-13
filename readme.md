@@ -7,6 +7,7 @@
 - Documentation : obligatoire avec SWAGGER
 - JSON (pas de XML ou de CSV)
 - **Mise en prod : attendre pour le moment**
+- Mocha pour les tests
 
 ## Bonnes pratiques imposées 
 - Intégrer obligatoirement un numéro de version dans vos URLs
