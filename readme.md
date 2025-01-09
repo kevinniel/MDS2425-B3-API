@@ -108,6 +108,7 @@
 
 Le 31 Janvier, vous commencerez la journée par un QCM tous ensemble. Vous passerez ensuite 1 par 1 en présentation pendant 10 minutes devant vos deux meilleurs profs : Clément & Kévin. Vous aurez 10 minutes pour nous présenter un maximum de choses pour que nous puissions vous noter selon le barème mentionné ci-dessus.
 
+Vous aurez entre 15 et 20 minutes pour réaliser le QCM - la durée précise vous sera communiquée au début !
 
 
 
