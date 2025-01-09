@@ -93,16 +93,21 @@
 
 ## Repo GIT
 
-Yann : https://github.com/Chakyu23/API_COURS
-Tom : https://github.com/tombury59/MDS_API_BOUTIQUE
-Aubin : https://github.com/AubinManceau/express-api-grocery
-Alexandre : https://github.com/Alexandre-RICHARD/mds-api
-Enzo : https://github.com/Minozen72/MDS-API-ZOO
-Léa : https://github.com/leagrnr/gpa-api
-Léane : https://github.com/leanecharpentier/running-shop-api
-Louis : https://github.com/KobalaGlou/ProjetAPIDofus
-Kévin : https://github.com/Frize01/mds-api-tp
-Raphaël : https://github.com/RaphLho/MDS-TP-API
+- Yann : https://github.com/Chakyu23/API_COURS
+- Tom : https://github.com/tombury59/MDS_API_BOUTIQUE
+- Aubin : https://github.com/AubinManceau/express-api-grocery
+- Alexandre : https://github.com/Alexandre-RICHARD/mds-api
+- Enzo : https://github.com/Minozen72/MDS-API-ZOO
+- Léa : https://github.com/leagrnr/gpa-api
+- Léane : https://github.com/leanecharpentier/running-shop-api
+- Louis : https://github.com/KobalaGlou/ProjetAPIDofus
+- Kévin : https://github.com/Frize01/mds-api-tp
+- Raphaël : https://github.com/RaphLho/MDS-TP-API
+
+## Evaluation
+
+Le 31 Janvier, vous commencerez la journée par un QCM tous ensemble. Vous passerez ensuite 1 par 1 en présentation pendant 10 minutes devant vos deux meilleurs profs : Clément & Kévin. Vous aurez 10 minutes pour nous présenter un maximum de choses pour que nous puissions vous noter selon le barème mentionné ci-dessus.
+
 
 
 
