@@ -85,7 +85,7 @@
 - REST => 4 pts
 - JSON / XML : header request => 1pt
 - JWT => 3 pts
-- Mise en production (avec P2M + docker avec image SQLServer) => 4 pts
+- Mise en production (avec P2M + SQLServer) => 4 pts
 - Tests unitaires + tests de charge (K6 / Artillery) => 3 pts
 - Postman + collections + token => 4 pts
 - Architecture & Qualité de code => 4 pts
