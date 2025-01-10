@@ -3,11 +3,11 @@
 ## Technologies imposées 
 - Node / Express
 - SQL Serveur
-- ORM : Sequelize
+- ORM (ex: Sequelize)
 - Documentation : obligatoire avec SWAGGER
 - JSON (pas de XML ou de CSV)
 - **Mise en prod : attendre pour le moment**
-- Mocha pour les tests
+- Mocha / JEST pour les tests
 
 ## Bonnes pratiques imposées 
 - Intégrer obligatoirement un numéro de version dans vos URLs
@@ -85,8 +85,8 @@
 - REST => 4 pts
 - JSON / XML : header request => 1pt
 - JWT => 3 pts
-- Mise en production => 4 pts
-- Tests unitaires => 3 pts
+- Mise en production (avec P2M + docker avec image SQLServer) => 4 pts
+- Tests unitaires + tests de charge (K6 / Artillery) => 3 pts
 - Postman + collections + token => 4 pts
 - Architecture & Qualité de code => 4 pts
 - page dédiée chat avec Socket.io => en lien avec le DAB => 10 pts
